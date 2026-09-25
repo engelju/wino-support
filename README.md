@@ -3,6 +3,7 @@
 A notebook for the wine you drink, for iPhone.
 
 **Support page:** https://jeng.cc/wino-support/
+**Privacy policy:** https://jeng.cc/wino-support/privacy/
 
 Questions and bug reports: [open an issue](https://github.com/engelju/wino-support/issues).
 
