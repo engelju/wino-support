@@ -2,7 +2,7 @@
 
 A notebook for the wine you drink, for iPhone.
 
-**Support page:** https://engelju.github.io/wino-support/
+**Support page:** https://jeng.cc/wino-support/
 
 Questions and bug reports: [open an issue](https://github.com/engelju/wino-support/issues).
 
